@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTP306", "CSharpTP306\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTP307", "CSharpTP307\CSharpTP307.csproj", "{ADF18BD1-16C2-4BD5-A873-7A4AF13A24E4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTP308", "CSharpTP308\CSharpTP308.csproj", "{CE35D1DB-6537-46F8-8932-08AD30A5C09E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{ADF18BD1-16C2-4BD5-A873-7A4AF13A24E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ADF18BD1-16C2-4BD5-A873-7A4AF13A24E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ADF18BD1-16C2-4BD5-A873-7A4AF13A24E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE35D1DB-6537-46F8-8932-08AD30A5C09E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE35D1DB-6537-46F8-8932-08AD30A5C09E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE35D1DB-6537-46F8-8932-08AD30A5C09E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE35D1DB-6537-46F8-8932-08AD30A5C09E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
