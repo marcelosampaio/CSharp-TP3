@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTP310", "CSharpTP310\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTP311", "CSharpTP311\CSharpTP311.csproj", "{53A2FB95-834E-4FD9-A8D2-00BE802869ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTP312", "CSharpTP312\CSharpTP312.csproj", "{0C7CB33A-BA2B-4993-9E7B-7549A44F331A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{53A2FB95-834E-4FD9-A8D2-00BE802869ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53A2FB95-834E-4FD9-A8D2-00BE802869ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53A2FB95-834E-4FD9-A8D2-00BE802869ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C7CB33A-BA2B-4993-9E7B-7549A44F331A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C7CB33A-BA2B-4993-9E7B-7549A44F331A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C7CB33A-BA2B-4993-9E7B-7549A44F331A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C7CB33A-BA2B-4993-9E7B-7549A44F331A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
